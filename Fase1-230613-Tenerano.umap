@@ -11319,8 +11319,11 @@
             "Ora": "07:11:15Z",
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Albergo",
+            "Altri tag": [
+              "Monumento",
+              "Parcheggio"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             }
