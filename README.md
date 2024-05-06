@@ -1,8 +1,7 @@
 # Fase1-230613-Tenerano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686))
 Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme 
 ## Percorso: Nuovo tracciato 13/06/23 08:49:02
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
+****
 ## POI: Rudere 2
 [<img src='/vignettes/47f79c31-5a92-43e7-b49d-d56b8f61b489.jpg' width='250'/>](/vignettes/47f79c31-5a92-43e7-b49d-d56b8f61b489.jpg) 
 
@@ -35,7 +34,7 @@ Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme
 [<img src='/vignettes/3fd63dbd-6b2b-422b-835b-836058fada69.jpg' width='250'/>](/vignettes/3fd63dbd-6b2b-422b-835b-836058fada69.jpg) 
 
 ****
-## POI: Cilonnina
+## POI: Colonnina
 [<img src='/vignettes/bd296a97-12c4-4a56-b697-b9e22eaf05be.jpg' width='250'/>](/vignettes/bd296a97-12c4-4a56-b697-b9e22eaf05be.jpg) 
 
 ****
@@ -56,8 +55,7 @@ Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme
 
 ****
 ## Percorso: Dalla tecchia rapita
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
+****
 ## POI: La mia foto - 13/06/23 15:34:53
 [<img src='/vignettes/4a849d6a-0201-49aa-8a1c-19ed24699c99.jpg' width='250'/>](/vignettes/4a849d6a-0201-49aa-8a1c-19ed24699c99.jpg) 
 
