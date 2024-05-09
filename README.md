@@ -1,5 +1,5 @@
 # Fase1-230613-Tenerano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686))
-Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme.
+Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme 
 ## Percorso: Nuovo tracciato 13/06/23 08:49:02
 ****
 ## POI: Rudere 2
