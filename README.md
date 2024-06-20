@@ -1,4 +1,4 @@
-# Fase1-230613-Tenerano (mappa non collegata)
+# Fase1-230613-Tenerano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686))
 Sopralluogo per individuare la Tecchia di Tenerano
 ## Percorso: Cimitero-Tecchia di Tenerano
 **Sopralluogo alla Tecchia di Tenerano, lungo il sentiero CAI 197 in direzione Passo della Gabellaccia. Al bivio preoseguire sulla sinistra fino al guado del torrente Bardinello e proseguire sul versante della Rocca di Tenerano**
