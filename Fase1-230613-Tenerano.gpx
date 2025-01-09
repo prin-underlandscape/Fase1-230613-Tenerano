@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.140753" lon="10.105316">
+    <ele>500</ele>
+    <name>Tecchia di Tenerano</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.140507" lon="10.105156">
+    <ele>500</ele>
+    <name>Interno Tecchia di Tenerano</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.140232" lon="10.104159">
+    <ele>500</ele>
+    <name>Castagno antico</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.140235" lon="10.104259">
+    <ele>500</ele>
+    <name>Castagno antico2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.140246" lon="10.104833">
+    <ele>500</ele>
+    <name>Castagno antico3</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.140531" lon="10.105439">
+    <ele>500</ele>
+    <name>Muro a secco e parete tecchia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.143786" lon="10.104092">
+    <ele>500</ele>
+    <name>Metato in stato di rudere</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.14594" lon="10.101715">
+    <ele>500</ele>
+    <name>Piccola cavità</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.146084" lon="10.101144">
+    <ele>500</ele>
+    <name>Colonnina</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.142828" lon="10.103792">
+    <ele>500</ele>
+    <name>Canale dell'acquedotto</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.141795" lon="10.103722">
+    <ele>500</ele>
+    <name>Capanna o metato in stato di rudere</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Cimitero-Tecchia di Tenerano</name>
+    <desc>Sopralluogo alla Tecchia di Tenerano, lungo il sentiero CAI 197 in direzione Passo della Gabellaccia. Al bivio preoseguire sulla sinistra fino al guado del torrente Bardinello e proseguire sul versante della Rocca di Tenerano</desc>
+    <trkseg>
+      <trkpt lat="[10.099658, 44.146416, 505.240688]" lon="[10.099626, 44.146437, 504.157094]">
+        <ele>[10.099721, 44.146424, 507.159178]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
